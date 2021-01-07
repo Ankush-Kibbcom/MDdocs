@@ -1,8 +1,6 @@
 # MDdocs
-Sample .md Documents for learning purpose
-# Project Title
 
-One Paragraph of project description goes here
+Sample .md Documents for learning purpose
 
 ## Getting Started
 
